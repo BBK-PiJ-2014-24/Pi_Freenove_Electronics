@@ -24,6 +24,7 @@ if __name__ == '__main__':
     print('Program Starting...\n')  
     setup()
     try:
-        loop()
+        while(True):
+            loop()
     except KeyboardInterrupt: #press ctrl-C to break
         destroy()
