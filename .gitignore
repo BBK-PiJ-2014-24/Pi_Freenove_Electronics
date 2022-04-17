@@ -127,3 +127,6 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# OWN FILE
+/home/stewart/Pi_Freenove_Electronics/Chapter02-LED+Switch/test.py
